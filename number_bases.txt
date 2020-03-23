@@ -1,0 +1,19 @@
+About every two years (Moore's Law states )
+Registers are used to pass data from memory to the processor
+
+
+5. What is 27 in binary?
+
+Ans: 11011
+
+What is 0x2F in binary
+
+Ans: 101111
+
+Convert 0b11011 to decimal
+
+Ans: 27
+
+What is 0b11100111 in hex?
+
+ANS: 47530901777
